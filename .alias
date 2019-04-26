@@ -1,0 +1,10 @@
+#
+# KUBERNETES
+#
+alias k="kubectl"
+alias kgp="kubectl get po"
+alias kgd="kubectl get deploy"
+alias kgs="kubectl get svc"
+alias kl="kubectl logs -f "
+alias kdp="kubectl describe po "
+alias kdd="kubectl describe deploy "
